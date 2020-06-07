@@ -1,27 +1,32 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Xylophone
 
+## Table of Contents
+1. [Overview](#Overview)
+2. [Product Specs](#Product-Specs)
+3. [App Walkthrough](#App-Walkthrough)
+4. [Libraries](#Libraries)
+5. [Credits](#Credits)
 
-# Xylophone 🎹
+## Overview
+### Description
 
-## Our Goal
+Xylophone is an app that replicates a real life xylophone. Clicking each of the bars will replicate the notes of a xylophone. No longer will you need to carry your life-sized xylophone with a digital xylophone.
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be conformable using Flutter packages and building repeated widgets.
+## Product Specs
+### User Stories
 
+- [x] User shall be able to click each bars to render xylophone notes.
 
-## What you will create
+## App Walkthrough
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+Here's a GIF of how the app works:
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+<img src="ADD_GIF_LINK" width=250>
 
-## What you will learn
+## Libraries
 
-- How to incorporate open source libraries of code into your project using Flutter Packages.
-- How to play sound on both iOS and Android.
-- How to generate repeated user interface Widgets.
-- How to use Dart functions that can take input arguments as well as return an output.
-- Dart arrow syntax for writing one line functions.
+- [audioplayers](https://github.com/luanpotter/audioplayers) - A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web (WIP).
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Credits
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
