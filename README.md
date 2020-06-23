@@ -28,6 +28,8 @@ Here's a GIF of how the app works:
 ## Libraries
 
 - [audioplayers](https://github.com/luanpotter/audioplayers) - A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web (WIP).
+- [cupertino_icons](https://github.com/flutter/cupertino_icons) - This is an asset repo containing the default set of icon assets used by Flutter's [Cupertino widgets](https://github.com/flutter/flutter/tree/master/packages/flutter/lib/src/cupertino).
+- [pedantic](https://github.com/dart-lang/pedantic) - Most of the recommended lints directly implement the guidelines set out in [Effective Dart](https://dart.dev/guides/language/effective-dart).
 
 ## Credits
 
