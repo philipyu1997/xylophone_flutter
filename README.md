@@ -21,9 +21,9 @@ Xylophone is an app that replicates a real life xylophone. Clicking each of the 
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/84093251-8e98be80-a9ae-11ea-882f-c59edab95445.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-xylophone.gif" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/84093240-89d40a80-a9ae-11ea-9534-a7d328a9c307.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-xylophone.gif" width=250>
 
 ## Libraries
 
